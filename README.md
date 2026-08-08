@@ -15,6 +15,12 @@ Originally created as a live-coding exercise, this project has been refactored i
 - Pull-to-refresh and error states with retry
 - Unit tests using Swift Testing
 
+## Screenshots
+
+| Feed List | App Detail | Feed Info |
+|-----------|------------|-----------|
+| ![Feed List](Screenshots/feed-list.png) | ![App Detail](Screenshots/app-detail.png) | ![Feed Info](Screenshots/feed-info.png) |
+
 ## Architecture
 
 ```
