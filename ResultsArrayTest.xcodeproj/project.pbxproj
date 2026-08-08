@@ -32,16 +32,22 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		99FCA105302665AF00D55E6F /* ResultsArrayTest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = ResultsArrayTest;
 			sourceTree = "<group>";
 		};
 		99FCA113302665B000D55E6F /* ResultsArrayTestTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = ResultsArrayTestTests;
 			sourceTree = "<group>";
 		};
 		99FCA11D302665B000D55E6F /* ResultsArrayTestUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+			);
 			path = ResultsArrayTestUITests;
 			sourceTree = "<group>";
 		};
@@ -111,8 +117,6 @@
 				99FCA105302665AF00D55E6F /* ResultsArrayTest */,
 			);
 			name = ResultsArrayTest;
-			packageProductDependencies = (
-			);
 			productName = ResultsArrayTest;
 			productReference = 99FCA103302665AF00D55E6F /* ResultsArrayTest.app */;
 			productType = "com.apple.product-type.application";
@@ -134,8 +138,6 @@
 				99FCA113302665B000D55E6F /* ResultsArrayTestTests */,
 			);
 			name = ResultsArrayTestTests;
-			packageProductDependencies = (
-			);
 			productName = ResultsArrayTestTests;
 			productReference = 99FCA110302665B000D55E6F /* ResultsArrayTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
@@ -157,8 +159,6 @@
 				99FCA11D302665B000D55E6F /* ResultsArrayTestUITests */,
 			);
 			name = ResultsArrayTestUITests;
-			packageProductDependencies = (
-			);
 			productName = ResultsArrayTestUITests;
 			productReference = 99FCA11A302665B000D55E6F /* ResultsArrayTestUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";

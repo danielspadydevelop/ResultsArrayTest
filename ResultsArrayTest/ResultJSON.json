@@ -1,0 +1,916 @@
+{
+  "feed": {
+    "title": "Top Free Apps",
+    "id": "https://rss.marketingtools.apple.com/api/v2/us/apps/top-free/50/apps.json",
+    "author": {
+      "name": "Apple",
+      "url": "https://www.apple.com/"
+    },
+    "links": [
+      {
+        "self": "https://rss.marketingtools.apple.com/api/v2/us/apps/top-free/50/apps.json"
+      }
+    ],
+    "copyright": "Copyright © 2026 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "https://www.apple.com/favicon.ico",
+    "updated": "Fri, 7 Aug 2026 19:10:05 +0000",
+    "results": [
+      {
+        "artistName": "TikTok Ltd.",
+        "id": "6741796873",
+        "name": "TikTok Pro - Events",
+        "releaseDate": "2026-06-03",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/b5/88/7fb58869-cb05-0fbe-8f71-8a54f00f979e/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/tiktok-pro-events/id6741796873"
+      },
+      {
+        "artistName": "OpenAI OpCo, LLC",
+        "id": "6448311069",
+        "name": "ChatGPT",
+        "releaseDate": "2023-05-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/2d/ef/592defc8-04d3-4d04-b5c0-2205f1fa0121/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/chatgpt/id6448311069"
+      },
+      {
+        "artistName": "ParentSquare",
+        "id": "908126679",
+        "name": "ParentSquare",
+        "releaseDate": "2014-08-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/35/41/f1354108-36e5-0a01-8a9f-dad0fe177e15/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/parentsquare/id908126679"
+      },
+      {
+        "artistName": "Capital One",
+        "id": "407558537",
+        "name": "Capital One Mobile",
+        "releaseDate": "2010-12-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/09/2d/29092db8-027f-7d82-1a5b-5b1731556d67/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537"
+      },
+      {
+        "artistName": "Instagram, Inc.",
+        "id": "6446901002",
+        "name": "Threads",
+        "releaseDate": "2023-07-05",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/4c/fb/e74cfb45-827b-e1b0-1456-7298c0d01232/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/threads/id6446901002"
+      },
+      {
+        "artistName": "Vinted Limited",
+        "id": "632064380",
+        "name": "Vinted: Pre-loved marketplace",
+        "releaseDate": "2013-04-11",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/b6/0d/dfb60d40-308c-1001-1c0d-e833fff2e41c/VintedAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380"
+      },
+      {
+        "artistName": "Depop Ltd",
+        "id": "518684914",
+        "name": "Depop - Buy & Sell Clothes",
+        "releaseDate": "2012-08-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/2c/51/212c517e-40b2-f557-458b-65eaf236943e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914"
+      },
+      {
+        "artistName": "Freecash - Get Paid Real Money",
+        "id": "1673567402",
+        "name": "Freecash - Get Paid Real Money",
+        "releaseDate": "2024-04-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/75/ec/d475ec8d-a3ec-d474-bd0b-03863a562585/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/freecash-get-paid-real-money/id1673567402"
+      },
+      {
+        "artistName": "Anthropic PBC",
+        "id": "6473753684",
+        "name": "Claude by Anthropic",
+        "releaseDate": "2024-05-01",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/25/7b/29257bef-ef63-11b5-f30c-1ee806165851/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684"
+      },
+      {
+        "artistName": "Google",
+        "id": "6477489729",
+        "name": "Google Gemini",
+        "releaseDate": "2024-11-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/8b/0f/478b0fdc-c6b5-6103-ee35-13385fcce290/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+        "genres": [],
+        "url": "https://apps.apple.com/us/app/google-gemini/id6477489729"
+      },
+      {
+        "artistName": "X Corp.",
+        "id": "333903271",
+        "name": "X",
+        "releaseDate": "2009-10-09",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6009",
+            "name": "News",
+            "url": "https://itunes.apple.com/us/genre/id6009"
+          },
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/x/id333903271"
+      },
+      {
+        "artistName": "Bytedance Pte. Ltd",
+        "id": "1500855883",
+        "name": "CapCut: Photo & Video Editor",
+        "releaseDate": "2020-04-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/a5/99/83a599e7-c367-ab65-11fc-721737bfa4fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883"
+      },
+      {
+        "artistName": "Google",
+        "id": "284815942",
+        "name": "Google",
+        "releaseDate": "2019-02-12",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4f/1b/cd4f1bda-47f3-2bd0-0278-eb9112c8b84f/SuperG_ios26-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          },
+          {
+            "genreId": "6006",
+            "name": "Reference",
+            "url": "https://itunes.apple.com/us/genre/id6006"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/google/id284815942"
+      },
+      {
+        "artistName": "Netflix, Inc.",
+        "id": "6447582581",
+        "name": "Netflix Game Controller",
+        "releaseDate": "2023-08-07",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/8a/15/e88a15a7-2efd-61f8-a1f8-0d1e9061493c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          },
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/us/genre/id6014"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581"
+      },
+      {
+        "artistName": "Whatnot Inc.",
+        "id": "1488269261",
+        "name": "Whatnot: Shop, Sell, Connect",
+        "releaseDate": "2019-12-06",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/b7/e9/dfb7e90b-cabc-ef4d-b586-a8eead20cadd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261"
+      },
+      {
+        "artistName": "ClassDojo, Inc.",
+        "id": "552602056",
+        "name": "ClassDojo",
+        "releaseDate": "2012-09-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/93/5f/bb935f4c-8873-b40a-47e0-c41c11764368/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6017",
+            "name": "Education",
+            "url": "https://itunes.apple.com/us/genre/id6017"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/classdojo/id552602056"
+      },
+      {
+        "artistName": "WhatsApp Inc.",
+        "id": "310633997",
+        "name": "WhatsApp Messenger",
+        "releaseDate": "2009-05-04",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/f2/a8/c1f2a8b3-56af-7837-3369-ada0ca0fe760/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997"
+      },
+      {
+        "artistName": "Google",
+        "id": "422689480",
+        "name": "Gmail - Email by Google",
+        "releaseDate": "2011-11-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/78/e1/9c78e1d3-c5a8-41b4-6613-2f93b00bd7ea/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480"
+      },
+      {
+        "artistName": "Temu",
+        "id": "1641486558",
+        "name": "Temu: Shop Like a Billionaire",
+        "releaseDate": "2022-08-31",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/b5/55/17b55564-65db-cae4-3608-03feea456dda/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558"
+      },
+      {
+        "artistName": "Google",
+        "id": "585027354",
+        "name": "Google Maps",
+        "releaseDate": "2012-12-13",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/35/32/33353283-f217-a497-4e41-9e83cb2e6ccb/maps_2025-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6010",
+            "name": "Navigation",
+            "url": "https://itunes.apple.com/us/genre/id6010"
+          },
+          {
+            "genreId": "6023",
+            "name": "Food & Drink",
+            "url": "https://itunes.apple.com/us/genre/id6023"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/google-maps/id585027354"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "983156458",
+        "name": "Microsoft Authenticator",
+        "releaseDate": "2015-05-30",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/ae/16/2eae1604-40be-df74-8292-82ce00f72d01/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-authenticator/id983156458"
+      },
+      {
+        "artistName": "TikTok Ltd.",
+        "id": "835599320",
+        "name": "TikTok - Videos, Shop & LIVE",
+        "releaseDate": "2014-04-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/70/42/50704260-89c4-2aa4-7740-4a6a621af5db/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          },
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320"
+      },
+      {
+        "artistName": "DealSeek LLC",
+        "id": "6745274862",
+        "name": "DealSeek: Coupons & Discounts",
+        "releaseDate": "2025-06-19",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/fb/9a/a2fb9aea-362f-b0df-6243-bbf3427fb484/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/dealseek-coupons-discounts/id6745274862"
+      },
+      {
+        "artistName": "Meta Platforms, Inc.",
+        "id": "1558240027",
+        "name": "Meta AI",
+        "releaseDate": "2021-09-09",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/0a/5c/f30a5cf3-91f3-49e9-e71c-77cda197bc5c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/meta-ai/id1558240027"
+      },
+      {
+        "artistName": "Shopify Inc.",
+        "id": "1223471316",
+        "name": "Shop: All your favorite brands",
+        "releaseDate": "2017-11-16",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/75/89/22758932-ac25-3770-68b3-87c09d4ab03a/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/shop-all-your-favorite-brands/id1223471316"
+      },
+      {
+        "artistName": "Mobile Jump Pte Ltd",
+        "id": "1370293473",
+        "name": "VPN - Super Unlimited Proxy",
+        "releaseDate": "2018-05-15",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/3f/27/c53f2752-094f-0b23-51fe-eec6705ad9fc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473"
+      },
+      {
+        "artistName": "STORYMATRIX PTE. LTD.",
+        "id": "6445905219",
+        "name": "DramaBox - Stream Drama Shorts",
+        "releaseDate": "2023-04-18",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ef/46/15ef46e0-5fe2-f6a1-57a0-610a1883389e/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/dramabox-stream-drama-shorts/id6445905219"
+      },
+      {
+        "artistName": "Walmart",
+        "id": "338137227",
+        "name": "Walmart: Shopping & Savings",
+        "releaseDate": "2009-11-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/e3/03/2fe30337-4534-6b3a-5cbd-b3abd4536b29/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "1113153706",
+        "name": "Microsoft Teams",
+        "releaseDate": "2016-11-02",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/30/53/3b305345-0abb-5854-3fd4-acc3744f444b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id6000"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706"
+      },
+      {
+        "artistName": "Google",
+        "id": "535886823",
+        "name": "Google Chrome",
+        "releaseDate": "2012-06-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ff/e7/93ffe7cc-8e69-ab2f-8b17-2e21d7238196/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/google-chrome/id535886823"
+      },
+      {
+        "artistName": "Telegram FZ-LLC",
+        "id": "686449807",
+        "name": "Telegram Messenger",
+        "releaseDate": "2013-08-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/83/96/c183964f-32d7-16fe-57ab-8c66518f6625/Telegram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          },
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/telegram-messenger/id686449807"
+      },
+      {
+        "artistName": "Uber Technologies, Inc.",
+        "id": "368677368",
+        "name": "Uber - Request a ride",
+        "releaseDate": "2010-05-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/fe/76/77fe769c-2e21-b1f9-a411-6e97b1a8b21b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6003",
+            "name": "Travel",
+            "url": "https://itunes.apple.com/us/genre/id6003"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/uber-request-a-ride/id368677368"
+      },
+      {
+        "artistName": "DoorDash, Inc.",
+        "id": "719972451",
+        "name": "DoorDash: Food, Grocery, More",
+        "releaseDate": "2013-10-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/8f/f5/fe8ff5e7-378c-6bec-48a8-ba007d3c5c80/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6023",
+            "name": "Food & Drink",
+            "url": "https://itunes.apple.com/us/genre/id6023"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/doordash-food-grocery-more/id719972451"
+      },
+      {
+        "artistName": "Indeed Inc.",
+        "id": "309735670",
+        "name": "Indeed Job Search",
+        "releaseDate": "2009-06-08",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/c0/05/c9c00522-49dd-e6c9-d8a0-b75885f4c9e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id6000"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670"
+      },
+      {
+        "artistName": "Instagram, Inc.",
+        "id": "389801252",
+        "name": "Instagram",
+        "releaseDate": "2010-10-06",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/be/de/4cbedeca-02d7-e15c-9e14-b0ac165eeb5a/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          },
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/instagram/id389801252"
+      },
+      {
+        "artistName": "Life360",
+        "id": "384830320",
+        "name": "Life360: Family Safety & GPS",
+        "releaseDate": "2010-08-10",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/64/02/b36402b9-34c1-2aac-b6bb-8f9f2ecbe4e1/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/life360-family-safety-gps/id384830320"
+      },
+      {
+        "artistName": "Spotify",
+        "id": "324684580",
+        "name": "Spotify: Music and Podcasts",
+        "releaseDate": "2011-07-14",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/74/07/42740742-a513-c1f3-ae00-b4b0a7d56ba5/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id6011"
+          },
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580"
+      },
+      {
+        "artistName": "Triumph Arcade",
+        "id": "6751921248",
+        "name": "Rips by Triumph",
+        "releaseDate": "2025-10-22",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/36/a8/7536a821-b9b8-de04-6dd6-8a1dae195da6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/rips-by-triumph/id6751921248"
+      },
+      {
+        "artistName": "ROADGET BUSINESS PTE. LTD.",
+        "id": "878577184",
+        "name": "SHEIN - Shopping Online",
+        "releaseDate": "2014-05-20",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/8c/8e/498c8ec4-f571-71ce-f343-8cbee5ee3cbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/shein-shopping-online/id878577184"
+      },
+      {
+        "artistName": "Equinox Enterprises‌ Technology Limited",
+        "id": "6761538521",
+        "name": "StoryReel: Exclusive Drama",
+        "releaseDate": "2026-04-08",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/9e/c5/329ec5f8-dd56-638b-519b-1e6ee6f11038/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/storyreel-exclusive-drama/id6761538521"
+      },
+      {
+        "artistName": "PayPal, Inc.",
+        "id": "283646709",
+        "name": "PayPal - Pay, Send, Save",
+        "releaseDate": "2019-02-03",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/06/94/900694e8-378d-c4ed-7922-82fe3eb8c245/AppIcon-0-0-1x_U007ephone-0-1-0-GLES2_U002c0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6015",
+            "name": "Finance",
+            "url": "https://itunes.apple.com/us/genre/id6015"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/paypal-pay-send-save/id283646709"
+      },
+      {
+        "artistName": "Meta Platforms, Inc.",
+        "id": "284882215",
+        "name": "Facebook",
+        "releaseDate": "2019-02-05",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/72/b7/7f72b76a-5865-3da5-8dc3-71a2b75551e9/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/facebook/id284882215"
+      },
+      {
+        "artistName": "Microsoft Corporation",
+        "id": "951937596",
+        "name": "Microsoft Outlook",
+        "releaseDate": "2015-01-29",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/4f/32/9b4f32cf-1d39-43e0-2d1e-05aa25f9ed1c/AppIcon-outlook.prod-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/microsoft-outlook/id951937596"
+      },
+      {
+        "artistName": "Ticketmaster",
+        "id": "500003565",
+        "name": "Ticketmaster－Buy, Sell Tickets",
+        "releaseDate": "2012-02-23",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/b1/0f/f7b10f44-8c64-9d24-63d0-8f6ef15755e8/AppIcon-0-0-1x_U007emarketing-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          },
+          {
+            "genreId": "6011",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id6011"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565"
+      },
+      {
+        "artistName": "AGILE QUADRANT MEDIA LIMITED",
+        "id": "6758667154",
+        "name": "VibeShort: AI Short Dramas",
+        "releaseDate": "2026-02-25",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/a7/bd/93a7bd6f-7e51-a57c-952c-9c7572d1ee17/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6016",
+            "name": "Entertainment",
+            "url": "https://itunes.apple.com/us/genre/id6016"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/vibeshort-ai-short-dramas/id6758667154"
+      },
+      {
+        "artistName": "AMZN Mobile LLC",
+        "id": "297606951",
+        "name": "Amazon Shopping",
+        "releaseDate": "2008-12-03",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/38/d8/9738d8ea-08de-b130-147a-96105bcb0431/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6024",
+            "name": "Shopping",
+            "url": "https://itunes.apple.com/us/genre/id6024"
+          },
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/amazon-shopping/id297606951"
+      },
+      {
+        "artistName": "X Corp.",
+        "id": "6670324846",
+        "name": "Grok AI",
+        "releaseDate": "2025-01-08",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/0b/35/010b35b5-3963-8b7f-2cb9-2470a75006f3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6007",
+            "name": "Productivity",
+            "url": "https://itunes.apple.com/us/genre/id6007"
+          },
+          {
+            "genreId": "6002",
+            "name": "Utilities",
+            "url": "https://itunes.apple.com/us/genre/id6002"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/grok-ai/id6670324846"
+      },
+      {
+        "artistName": "Pinterest, Inc.",
+        "id": "429047995",
+        "name": "Pinterest",
+        "releaseDate": "2011-04-28",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/4d/21/254d21dc-d83a-83af-cfb7-b161188c34fe/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6012",
+            "name": "Lifestyle",
+            "url": "https://itunes.apple.com/us/genre/id6012"
+          },
+          {
+            "genreId": "6008",
+            "name": "Photo & Video",
+            "url": "https://itunes.apple.com/us/genre/id6008"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/pinterest/id429047995"
+      },
+      {
+        "artistName": "Discord Inc.",
+        "id": "985746746",
+        "name": "Discord - Talk, Play, Hang Out",
+        "releaseDate": "2015-05-21",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/c8/52/e6c852f4-8c99-a0ab-b3cf-b4b5299afe01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6005",
+            "name": "Social Networking",
+            "url": "https://itunes.apple.com/us/genre/id6005"
+          },
+          {
+            "genreId": "6014",
+            "name": "Games",
+            "url": "https://itunes.apple.com/us/genre/id6014"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/discord-talk-play-hang-out/id985746746"
+      },
+      {
+        "artistName": "Block, Inc.",
+        "id": "711923939",
+        "name": "Cash App",
+        "releaseDate": "2013-10-16",
+        "kind": "apps",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/e9/7a/e5e97a2d-c112-8c9a-18d7-62aa5fe8e830/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "6015",
+            "name": "Finance",
+            "url": "https://itunes.apple.com/us/genre/id6015"
+          },
+          {
+            "genreId": "6000",
+            "name": "Business",
+            "url": "https://itunes.apple.com/us/genre/id6000"
+          }
+        ],
+        "url": "https://apps.apple.com/us/app/cash-app/id711923939"
+      }
+    ]
+  }
+}
