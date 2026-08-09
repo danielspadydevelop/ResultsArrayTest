@@ -19,9 +19,9 @@ enum NetworkError: Error, Equatable {
         case (.invalidURL, .invalidURL),
              (.invalidResponse, .invalidResponse):
             return true
-        case (.decodingError(let a), .decodingError(let b)),
-             (.transportError(let a), .transportError(let b)):
-            return a == b
+        case (.decodingError(let lhsMessage), .decodingError(let rhsMessage)),
+             (.transportError(let lhsMessage), .transportError(let rhsMessage)):
+            return lhsMessage == rhsMessage
         default:
             return false
         }

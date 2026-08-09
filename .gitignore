@@ -1,2 +1,6 @@
 # Agent instructions
 AGENTS.md
+
+# SwiftLint configuration
+.swiftlint.yml
+.swiftlint.yaml
