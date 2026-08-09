@@ -32,22 +32,16 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		99FCA105302665AF00D55E6F /* ResultsArrayTest */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = ResultsArrayTest;
 			sourceTree = "<group>";
 		};
 		99FCA113302665B000D55E6F /* ResultsArrayTestTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = ResultsArrayTestTests;
 			sourceTree = "<group>";
 		};
 		99FCA11D302665B000D55E6F /* ResultsArrayTestUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = ResultsArrayTestUITests;
 			sourceTree = "<group>";
 		};
