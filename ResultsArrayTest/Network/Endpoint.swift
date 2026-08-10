@@ -14,7 +14,9 @@ enum Endpoint {
     var url: URL? {
         switch self {
         case .topFreeApps(let country, let count):
-            return URL(string: "https://rss.marketingtools.apple.com/api/v2/\(country)/apps/top-free/\(count)/apps.json")
+            return URL(
+                string: "https://rss.marketingtools.apple.com/api/v2/\(country)/apps/top-free/\(count)/apps.json"
+            )
         }
     }
 }

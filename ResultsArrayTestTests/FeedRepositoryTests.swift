@@ -6,8 +6,8 @@
 //
 
 import Foundation
-import Testing
 @testable import ResultsArrayTest
+import Testing
 
 @MainActor
 struct FeedRepositoryTests {

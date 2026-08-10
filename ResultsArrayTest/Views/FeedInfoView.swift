@@ -35,6 +35,7 @@ struct FeedInfoView: View {
                             Image(systemName: "chevron.right")
                                 .foregroundStyle(.secondary)
                                 .font(.caption)
+                                .accessibilityHidden(true)
                         }
                     }
                     .foregroundStyle(.primary)

@@ -6,8 +6,8 @@
 //
 
 import Foundation
-import Testing
 @testable import ResultsArrayTest
+import Testing
 
 struct DecodingTests {
 
@@ -37,7 +37,9 @@ struct DecodingTests {
         let data = try loadJSONData()
         let root = try JSONDecoder().decode(RSSFeed.self, from: data)
 
-        let appWithGenres = try #require(root.feed?.results?.first(where: { ($0.genres?.count ?? 0) > 0 }))
+        let appWithGenres = try #require(root.feed?.results?.first {
+            ($0.genres?.count ?? 0) > 0
+        })
         let firstGenre = try #require(appWithGenres.genres?.first)
         #expect(firstGenre.genreId != nil)
         #expect(firstGenre.name != nil)

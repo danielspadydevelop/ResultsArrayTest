@@ -28,10 +28,8 @@ struct ContentView: View {
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     if let feed = viewModel.feed {
-                        Button {
+                        Button("Feed Info", systemImage: "info.circle") {
                             coordinator.navigate(to: .feedInfo(feed))
-                        } label: {
-                            Image(systemName: "info.circle")
                         }
                     }
                 }
