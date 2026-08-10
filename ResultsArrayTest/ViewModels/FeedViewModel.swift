@@ -7,6 +7,14 @@
 
 import Foundation
 
+/// Represents the possible states of the top free apps feed.
+enum FeedViewState {
+    case loading
+    case error(String)
+    case results([AppResult])
+    case empty
+}
+
 /// View model that drives the app's main feed list.
 @Observable
 @MainActor
@@ -16,6 +24,14 @@ final class FeedViewModel {
     var feed: Feed?
     var isLoading = false
     var errorMessage: String?
+
+    /// The current feed state derived from the view model's properties.
+    var viewState: FeedViewState {
+        if isLoading { return .loading }
+        if let errorMessage { return .error(errorMessage) }
+        if let results = feed?.results, !results.isEmpty { return .results(results) }
+        return .empty
+    }
 
     init(repository: FeedRepositoryProtocol) {
         self.repository = repository

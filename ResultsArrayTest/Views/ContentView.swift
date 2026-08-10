@@ -18,25 +18,12 @@ struct ContentView: View {
 
     var body: some View {
         NavigationStack(path: $coordinator.path) {
-            Group {
-                if viewModel.isLoading {
-                    LoadingView()
-                } else if let errorMessage = viewModel.errorMessage {
-                    ErrorView(message: errorMessage) {
-                        Task { await viewModel.loadFeed() }
-                    }
-                } else if let results = viewModel.feed?.results {
-                    ResultsListView(
-                        apps: results,
-                        onSelect: { app in coordinator.navigate(to: .appDetail(app)) },
-                        onRefresh: { await viewModel.loadFeed() }
-                    )
-                } else {
-                    EmptyStateView {
-                        Task { await viewModel.loadFeed() }
-                    }
-                }
-            }
+            FeedContentView(
+                state: viewModel.viewState,
+                onSelect: { app in coordinator.navigate(to: .appDetail(app)) },
+                onRefresh: { await viewModel.loadFeed() },
+                onRetry: { Task { await viewModel.loadFeed() } }
+            )
             .navigationTitle("Top Free Apps")
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
